@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @COMPLEX2323
-- 👀 I’m interested in Gaming,Coding
-- 🌱 I’m currently learning Javscript, Html, Python, C#, C++
-- 📫 Discord: COMPLEX#0001
 
-<!---
-COMPLEX2323/COMPLEX2323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <div align="center">Hey, I'm COMPLEX im Creating Bot's Since 2021</div>  
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDev7518&label=Profile%20views&color=00FFFF&style=flat" alt="COMPLEX#0001" /> </p>
+
+***
+
+- :telescope: I'm Currently Working on a [**Exorcist!!**](https://discord.gg/pN6tK5c4jy)
+- 🌱 I’m currently learning Javscript, Html, Python, C#, C++
+
+<br/>
