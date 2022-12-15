@@ -1,5 +1,5 @@
 
-## <div align="center">Hey, I'm COMPLEX im Creating Bot's Since 2021</div>  
+## <div align="center">Hey, I'm COMPLEX. I have been coding bots sence 2021</div>  
 
 
 ***
